@@ -1,0 +1,15 @@
+# Azure Context files (podem conter credenciais de sessão)
+AzureContext.json
+AzureRmContext.json
+TokenCache.dat
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações de editor (VS Code)
+.vscode/
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store

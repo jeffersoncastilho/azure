@@ -36,3 +36,10 @@ Antes de executar o script, certifique-se de que possui:
 ```powershell
 Install-Module Az -Repository PSGallery -Force -AllowClobber
 Update-Module Az
+
+## Artigo no meu blog
+
+Para saber mais sobre o Script pode usar o Link abaixo para o meu artigo no meu blog.
+
+https://jeffersoncastilho.com.br/2025/12/22/criar-cluster-aks-azure/
+
