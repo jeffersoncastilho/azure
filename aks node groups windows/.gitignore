@@ -1,0 +1,21 @@
+# Logs e Arquivos de Auditoria
+*.log
+TLS_Config_Log_*.txt
+
+# Arquivos Temporários e de Backup
+*.tmp
+*.bak
+*.swp
+
+# Configurações de IDE/Editor
+.vscode/
+.idea/
+
+# Sistema Operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Azure (evitar commitar credenciais ou estados locais)
+.azure/
+azure.err
