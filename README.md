@@ -16,7 +16,6 @@ As soluções são desenvolvidas utilizando as principais ferramentas de orquest
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Ansible-%23E81123.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
 </p>
 
