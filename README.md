@@ -1,7 +1,7 @@
 # Repositório de Códigos para Azure
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Azure_Sky_Blue.svg" alt="Microsoft Azure Logo" width="150">
+  <img src="https://jeffersoncastilho.com.br/wp-content/uploads/2026/01/microsoft-azure-logo.png" alt="Microsoft Azure Logo" width="150">
   <br>
   <em>Central de scripts, automações e templates de Infraestrutura como Código (IaC) para o ecossistema Microsoft Azure.</em>
 </p>
